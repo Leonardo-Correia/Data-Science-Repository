@@ -1,2 +1,2 @@
-# Data-Sience-Repository-
+# Data-Sience-Repository
  Data science project repository
